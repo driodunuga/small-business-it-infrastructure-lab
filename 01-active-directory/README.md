@@ -1,6 +1,6 @@
 # Active Directory Lab
 
-Windows Server 2019 domain controller built in VirtualBox, with a Windows 10 client joined to the domain. Built by following Josh Madakor's Active Directory home lab tutorial. The user creation script is adapted from his repository.
+Windows Server 2019 domain controller built in VirtualBox, with a Windows 10 client joined to the domain. 
 
 ## Setup
 
