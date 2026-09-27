@@ -1,4 +1,6 @@
-﻿# ----- Edit these Variables for your own Use Case ----- #
+# Lab-only default password. Never hardcode passwords in production.
+  
+ # ----- Edit these Variables for your own Use Case ----- #
 $PASSWORD_FOR_USERS   = "Password1"
 $USER_FIRST_LAST_LIST = Get-Content .\names.txt
 # ------------------------------------------------------ #
