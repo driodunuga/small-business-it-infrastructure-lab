@@ -27,7 +27,6 @@ Set up the DC with two adapters: Adapter 1 on NAT for internet access and Adapte
 
 ![DC network connections](03-dc-network-connections.png)
 
-![DC static IP](04-dc-static-ip.png)
 
 ### 2. Active Directory Domain Services
 Installed AD DS and promoted the server to a domain controller in a new forest. Created a separate admin account in its own OU and added it to Domain Admins.
